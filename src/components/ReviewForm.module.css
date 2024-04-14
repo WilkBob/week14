@@ -1,0 +1,13 @@
+
+.ReviewForm  {
+    display: flex;
+    
+    gap: 20px;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.ReviewForm button{
+    width: 100%;
+}
+
